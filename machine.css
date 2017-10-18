@@ -1,0 +1,45 @@
+
+  body{
+  background-color:rgb(255, 204, 204);
+}
+
+h1{
+  color: black;
+  font-size:50px;
+  
+}
+p{
+  color: rgb(153, 0, 153);
+  font-style:italic;
+  font-size:20px;
+}
+
+img{
+  height : 180px;
+  padding:25px;
+}
+
+.quotes{
+  background-color:rgb(204, 204, 255);
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:5px;
+  margin-top:20px;
+  padding:50px;
+  height : auto;
+  
+  
+}
+
+.quote{
+  font-size:30px;
+}
+
+.author{
+  font-size:20px;
+  font-style:italic;
+}
+
